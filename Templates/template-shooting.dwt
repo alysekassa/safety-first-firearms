@@ -1,0 +1,51 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+	<table>
+		<tr>
+			<td colspan="2"><img src="../images/header.jpg" width="950" height="150" /></td>
+		</tr>
+		<tr>
+			<td>
+				<ul>
+					<li><a href="../index.html">[Home] </a></li>
+					<li><a href="../about-company.html">[About the Founder]</a>
+<ul>
+							<li>Leonardo DiCaprio</li>
+						</ul>
+					</li>
+					<li>[Products]
+						<ul>
+							<li><a href="../products/beretta-92-fs.html">Beretta 92 FS</a></li>
+							<li><a href="../products/sig-sauer-p229.html">Sig Sauer P229</a></li>
+							<li><a href="../products/heckler-and-koch-p30l.html">Heckler and Koch P30L</a></li>
+							<li><a href="../products/walther-ppq-m2.html">Walther PPQ M2</a></li>
+						</ul>
+					</li>
+					<li>[Outdoor Locations]
+						<ul>
+							<li><a href="../outdoor-locations/east-coast.html">East Coast</a></li>
+							<li><a href="../outdoor-locations/west-coast.html">West Coast</a></li>
+							<li><a href="../outdoor-locations/new-england.html">New England Area</a></li>
+							<li><a href="../outdoor-locations/midwest.html">Midwest</a></li>
+						</ul>
+					</li>
+				</ul>
+			</td>
+			<td><!-- TemplateBeginEditable name="content" -->content<!-- TemplateEndEditable --></td>
+		</tr>
+		<tr>
+			<td colspan="2"><img src="../images/footer.jpg" width="950" height="150" /></td>
+		</tr>
+	</table>
+</body>
+</html>
